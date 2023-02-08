@@ -9,5 +9,6 @@ const jwkEndpoint = {
   };
 
 export default function handler(req, res) {
-  return res.json(jwkEndpoint);
+    res.setHeader('content-type', 'application/json');
+    return res.json(jwkEndpoint);
 }
