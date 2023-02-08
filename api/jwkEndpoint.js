@@ -9,5 +9,5 @@ const jwkEndpoint = {
   };
 
 export default function handler(req, res) {
-  return res.send(JSON.stringify(jwkEndpoint));
+  return res.json(JSON.stringify(jwkEndpoint));
 }
