@@ -25,7 +25,7 @@ const jwkEndpoint = {
     ]
   };
 
-const handler(req, res) {
+const handler = (req, res) => {
     res.setHeader('content-type', 'application/json');
     return res.json(jwkEndpoint);
 }
