@@ -28,6 +28,14 @@ const jwkEndpoint = {
     {
       "kty": "RSA",
       "e": "AQAB",
+      "use": "sig",
+      "kid": "MFqurkGGV-lT3fbgJy6uDjQ8b4l1CsSMiinOGvB0D6E",
+      "n": "zZXLEHaBh6jDL_sFBG_KX7UlpjsoLbbI5ncyuD6q3Yp25uHu2yNDjsv1vleUYxjTgS9JMwEDWMb85hj6PbelOdZo4v8shPt7SoIU7KXJDkDNUaIXSBqQkKF5TpvoEOZOnpDcIu5CzMamm9AhILufAhQbLThMsJ7xoukHmeUpn8nINBJJ2LWl0HFN2Q9EsZvQ7PuO5-5Oa8SY0m7BPgVEJH0eTUH6s7DPI5hBKx0fXT1qLSIwslkr0xLP2uCQ6uSPJPoxeNL6aFOKJTftKQDM-vRb6rE3KjeMN4V55jVGvmmjHRMkF81wR26iJxWM1Gg1g0USmTc7aMUl3C8ZesIcLQ",
+      "alg": "RS256"
+    },
+    {
+      "kty": "RSA",
+      "e": "AQAB",
       "alg": "RS256",
       "kid": "c53624af1600da79f31f0314f205d4f37ad6e246",
       "use": "sig",
