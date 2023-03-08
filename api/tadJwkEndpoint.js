@@ -21,9 +21,9 @@ const jwkEndpoint = {
             "kty": "RSA",
             "e": "AQAB",
             "use": "sig",
-            "kid": "hc0vYUBYtaHCmV6mPEsOoGG4ik0Y7p7nUvZ0GPY8PV0",
+            "kid": "MFqurkGGV-lT3fbgJy6uDjQ8b4l1CsSMiinOGvB0D6E",
             "alg": "RS256",
-            "n": "iod0Ar6zhY33VuxnJXQo52LqfqdWpz1rlUaNj-rJGcFqMDypxeUeqnIRXlhDxIlcvItu_CS_nDiQwz3h5D3orbdoqdLUiSXDEc3AkK9FVXCfMS-ze--RW--TaY05cbLxhH3TynB8AlwWjtnQEYkdnai8jsEKKZuZbwyfzrs7aS8AucOOPL2SIldVHuZ3zuz7Dl8ciNoxWMkrYLTDwcgPJiteq4rhgPnez1SgmKI44lz_BH70M0psLy2gYn5Eu47GFoY4V8RcQpCvvg5mAEQpyNsnDetPvXDwjqEFmHK1WwiPgKiI2Gan-GENCX0qdm43mg84NVdp8gG5tfpracVrJw"
+            "n": "zZXLEHaBh6jDL_sFBG_KX7UlpjsoLbbI5ncyuD6q3Yp25uHu2yNDjsv1vleUYxjTgS9JMwEDWMb85hj6PbelOdZo4v8shPt7SoIU7KXJDkDNUaIXSBqQkKF5TpvoEOZOnpDcIu5CzMamm9AhILufAhQbLThMsJ7xoukHmeUpn8nINBJJ2LWl0HFN2Q9EsZvQ7PuO5-5Oa8SY0m7BPgVEJH0eTUH6s7DPI5hBKx0fXT1qLSIwslkr0xLP2uCQ6uSPJPoxeNL6aFOKJTftKQDM-vRb6rE3KjeMN4V55jVGvmmjHRMkF81wR26iJxWM1Gg1g0USmTc7aMUl3C8ZesIcLQ"
         }
     ]
   };
